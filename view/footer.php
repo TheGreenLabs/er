@@ -5,18 +5,18 @@
         <nav>
           <ul>
             <li>
-              <a href="https://bitcointalk.org/index.php?topic=4949073">
-                <b>5$ BONUS</b>
+              <a href="https://matrix-coin.io">
+                <b>Website</b>
               </a>
             </li>
             <li>
-              <a href="http://greencoin.space/">
-                Pool
+              <a href="https://matrixtrade.io/">
+                Exchange
               </a>
             </li>
             <li>
-              <a href="http://greencoin.life/faucet">
-                FAUCET
+              <a href="https://explorer.matrix-coin.io">
+                Block Explorer
               </a>
             </li>
           </ul>
@@ -26,7 +26,7 @@
           <script>
             document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
           </script>, 
-          <a href="https://github.com/johnathanmartin/piWallet">Source code</a>
+         
         </div>
       </div>
     </footer>
