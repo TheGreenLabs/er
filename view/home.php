@@ -19,13 +19,7 @@
 						<i class="now-ui-icons users_circle-08"></i>
 					</div>
 				</div>
-				<div class="modal-body">
-					<p>You need to solve captcha!</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-link btn-neutral" data-dismiss="modal">Back</button>
-					<button type="button" class="btn btn-link btn-neutral" data-dismiss="modal">Close</button>
-				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -78,7 +72,6 @@
 				   </div>
 				   <div class="row">
 					<div class="col-md-9 text-center">
-					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Lfk5aYUAAAAAJhLEYbWxEEzSoGrm32P5SocB4IJ"></div>
 					</div>
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_LOGIN']; ?></button></div>
 				   </div>
@@ -112,8 +105,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-9 text-center">
-					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Lfk5aYUAAAAAJhLEYbWxEEzSoGrm32P5SocB4IJ"></div>
-					</div>
+		
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_SIGNUP']; ?></button></div>
 				</div>
 				</form>
@@ -124,5 +116,3 @@
       </div>
     </div>
 </div>
-    <!--recaptcha-->
-    <script src='https://www.google.com/recaptcha/api.js'></script>
