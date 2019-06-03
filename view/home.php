@@ -1,6 +1,6 @@
 <?php if (!defined("IN_WALLET")) { die("Auth Error"); } ?>
 <div class="login-page">
-    <div class="page-header clear-filter" filter-color="green">
+    <div class="page-header clear-filter" filter-color="black">
       <div class="page-header-image" data-parallax="true" style="background-image:url('../assets/img/bg5.jpg');">
       </div>
       <div class="container" style="height:100vh;">
@@ -78,7 +78,7 @@
 				   </div>
 				   <div class="row">
 					<div class="col-md-9 text-center">
-					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6LdAUnIUAAAAAIOylmQeQkZUbec1B75sYJo8veKo"></div>
+					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Lfk5aYUAAAAAJhLEYbWxEEzSoGrm32P5SocB4IJ"></div>
 					</div>
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_LOGIN']; ?></button></div>
 				   </div>
@@ -112,7 +112,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-9 text-center">
-					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6LdAUnIUAAAAAIOylmQeQkZUbec1B75sYJo8veKo"></div>
+					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Lfk5aYUAAAAAJhLEYbWxEEzSoGrm32P5SocB4IJ"></div>
 					</div>
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_SIGNUP']; ?></button></div>
 				</div>
