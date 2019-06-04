@@ -85,7 +85,7 @@
 		<li class="nav-item">
                         <a class="nav-link" href="https://matrixdice.io/">
                             <i class="now-ui-icons loader_refresh spin"></i>
-                            <p>Matrix Dice</p>
+                            <p>Matrix Casino</p>
                         </a>
           </li>
           <li class="nav-item dropdown">
