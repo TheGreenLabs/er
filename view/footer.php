@@ -18,6 +18,9 @@
               <a href="https://explorer.matrix-coin.io">
                 Block Explorer
               </a>
+                <a href="https://matrixdice.io">
+                Matrix Casino
+              </a>
             </li>
           </ul>
         </nav>
@@ -25,7 +28,7 @@
           &copy;
           <script>
             document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
-          </script>, 
+          </script> | Matrix Blockchain 
          
         </div>
       </div>
