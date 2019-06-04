@@ -1,6 +1,6 @@
 <?php if (!defined("IN_WALLET")) { die("Auth Error"); } ?>
 <div class="login-page">
-    <div class="page-header clear-filter" filter-color="black">
+    <div class="page-header clear-filter" filter-color="green">
       <div class="page-header-image" data-parallax="true" style="background-image:url('../assets/img/bg5.jpg');">
       </div>
       <div class="container" style="height:100vh;">
@@ -11,7 +11,25 @@
                     echo "<p style='font-weight: bold; color: red;'>" . $error['message']; "</p>";
                 }
                 ?>
-	
+	<div class="modal fade modal-mini modal-primary" id="captchaModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header justify-content-center">
+					<div class="modal-profile">
+						<i class="now-ui-icons users_circle-08"></i>
+					</div>
+				</div>
+				<div class="modal-body">
+					<p>You need to solve captcha!</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-link btn-neutral" data-dismiss="modal">Back</button>
+					<button type="button" class="btn btn-link btn-neutral" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
        <div class="card col-md-8">
 	<div class="card-header">
 		<ul class="nav nav-tabs justify-content-center" role="tablist">
@@ -60,6 +78,7 @@
 				   </div>
 				   <div class="row">
 					<div class="col-md-9 text-center">
+					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Ld76qYUAAAAAApZ5gfJLhFqYGy9HyktxwmdfLB7"></div>
 					</div>
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_LOGIN']; ?></button></div>
 				   </div>
@@ -93,7 +112,8 @@
 				</div>
 				<div class="row">
 					<div class="col-md-9 text-center">
-		
+					<div class="g-recaptcha" style="width: 304px; margin: 0 auto;" data-theme="dark" data-sitekey="6Ld76qYUAAAAAApZ5gfJLhFqYGy9HyktxwmdfLB7"></div>
+					</div>
 					<div class="col-md-3"><button type="submit" class="btn btn-default"><?php echo $lang['FORM_SIGNUP']; ?></button></div>
 				</div>
 				</form>
@@ -104,3 +124,5 @@
       </div>
     </div>
 </div>
+    <!--recaptcha-->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
