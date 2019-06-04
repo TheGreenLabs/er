@@ -11,19 +11,7 @@
                     echo "<p style='font-weight: bold; color: red;'>" . $error['message']; "</p>";
                 }
                 ?>
-	<div class="modal fade modal-mini modal-primary" id="captchaModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header justify-content-center">
-					<div class="modal-profile">
-						<i class="now-ui-icons users_circle-08"></i>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-
+	
        <div class="card col-md-8">
 	<div class="card-header">
 		<ul class="nav nav-tabs justify-content-center" role="tablist">
