@@ -19,16 +19,16 @@
 <meta property="og:title" content="Matrix Web Wallet"/>
 <meta property="og:url" content="https://mtx-wallet.com/"/>
 <meta property="og:type" content="website"/>
-<meta property="og:image" content="https://i.ibb.co/HGJ6R5D/logo-3.png"/>
+<meta property="og:image" content="https://i.ibb.co/5BrtYcq/MTX-Transparent-file.png"/>
 <meta property="og:image:width" content="128"/>
 <meta property="og:image:height" content="128"/>
 <meta itemprop="name" content="Matrix Web Wallet"/>
 <meta itemprop="url" content="https://mtx-wallet.com/"/>
-<meta itemprop="thumbnailUrl" content="https://i.ibb.co/HGJ6R5D/logo-3.png"/>
-<link rel="image_src" href="https://i.ibb.co/HGJ6R5D/logo-3.png" />
-<meta itemprop="image" content="https://i.ibb.co/HGJ6R5D/logo-3.png"/>
+<meta itemprop="thumbnailUrl" content="https://i.ibb.co/5BrtYcq/MTX-Transparent-file.png"/>
+<link rel="image_src" href="https://i.ibb.co/5BrtYcq/MTX-Transparent-file.png" />
+<meta itemprop="image" content="https://i.ibb.co/5BrtYcq/MTX-Transparent-file.png"/>
 <meta name="twitter:title" content="Matrix Trade"/>
-<meta name="twitter:image" content="https://i.ibb.co/HGJ6R5D/logo-3.png"/>
+<meta name="twitter:image" content="https://i.ibb.co/5BrtYcq/MTX-Transparent-file.png"/>
 <meta name="twitter:url" content="https://twitter.com/MatrixCoin/"/>
 <meta name="twitter:card" content="summary"/>
 <meta name="description" content="Matrix web wallet" />
@@ -74,12 +74,18 @@
             <a class="nav-link" href="https://matrix-coin.io/">Main Site</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://matrix-coin.io/">Have an issue?</a>
+            <a class="nav-link" href="https://matrix-coin.io/contact">Have an issue?</a>
           </li>
 	  <li class="nav-item">
                         <a class="nav-link" href="https://matrixtrade.io/">
                             <i class="now-ui-icons loader_refresh spin"></i>
                             <p>Matrix Exchange</p>
+                        </a>
+          </li>
+		<li class="nav-item">
+                        <a class="nav-link" href="https://matrixdice.io/">
+                            <i class="now-ui-icons loader_refresh spin"></i>
+                            <p>Matrix Dice</p>
                         </a>
           </li>
           <li class="nav-item dropdown">
@@ -105,13 +111,13 @@
 </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/MatrixCoin" target="_blank">
+            <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/Matrixcoin2" target="_blank">
               <i class="fab fa-twitter"></i>
               <p class="d-lg-none d-xl-none">Twitter</p>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://fb.me/MatrixCoin" target="_blank">
+            <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/Matrix-coin-342801396432287/" target="_blank">
               <i class="fab fa-facebook-square"></i>
               <p class="d-lg-none d-xl-none">Facebook</p>
             </a>
