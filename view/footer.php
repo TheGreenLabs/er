@@ -14,6 +14,11 @@
                 Exchange
               </a>
             </li>
+              <li>
+              <a href="https://matrix-pool.com/">
+                Matrix Pool
+              </a>
+            </li>
             <li>
               <a href="http://mtx-explorer.com:3001">
                 Block Explorer
