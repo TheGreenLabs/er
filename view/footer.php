@@ -15,7 +15,7 @@
               </a>
             </li>
             <li>
-              <a href="https://explorer.matrix-coin.io">
+              <a href="http://mtx-explorer.com:3001">
                 Block Explorer
               </a>
                 <a href="https://matrixdice.io">
