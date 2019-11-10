@@ -10,7 +10,7 @@
     <link rel="manifest" href="/site.webmanifest">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="">
+  <meta name="description" content="MTX web wallet">
   <meta name="author" content="">
   <title>
     <?=$fullname?>MTX Web Wallet
@@ -83,8 +83,7 @@
                         </a>
           </li>
 		<li class="nav-item">
-                        <a class="nav-link" href="https://matrixdice.io/">
-                            <i class="now-ui-icons loader_refresh spin"></i>
+                        <a class="nav-link" href="https://matrixcasino.io/">
                             <p>Matrix Casino</p>
                         </a>
           </li>
