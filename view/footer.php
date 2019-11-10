@@ -23,7 +23,7 @@
               <a href="http://mtx-explorer.com:3001">
                 Block Explorer
               </a>
-                <a href="https://matrixdice.io">
+                <a href="https://matrixcasino.io">
                 Matrix Casino
               </a>
             </li>
